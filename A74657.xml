@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A trve and perfect diurnall: of the most remarkeable passages in Ireland, from the second of April to this present. / Sent over by a gentleman of very good worth, and an eye-witnesse. To a brother of his in London.</title>
+            <author>Gentleman of very good worth and an eye-witnesse.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74657</idno>
+            <idno type="STC">Thomason E145_19</idno>
+            <idno type="EEBO-CITATION">50874289</idno>
+            <idno type="OCLC">ocm 50874289</idno>
+            <idno type="VID">156646</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74657)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156646)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E145[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A trve and perfect diurnall: of the most remarkeable passages in Ireland, from the second of April to this present. / Sent over by a gentleman of very good worth, and an eye-witnesse. To a brother of his in London.</title>
+                  <author>Gentleman of very good worth and an eye-witnesse.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Edward Blackmore, at the signe of the Angel in Pauls Church yard,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of t.p. : May 3.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156646:1"/>
+            <pb facs="tcp:156646:1" rendition="simple:additions"/>
+            <p>
+               <hi>May</hi> 3. A TRVE AND PERFECT Diurnall: Of the moſt remarkeable Paſſages in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> from the ſecond of <hi>April</hi> to this preſent. Sent over by a Gentleman of very good worth, and an eye-witneſſe.</p>
+            <p>To a brother of his in LONDON.</p>
+            <p>Printed at London for <hi>Edward Blackmore,</hi> at the ſigne of the Angel in <hi>Pauls Church-yard</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:156646:2"/>
+            <pb n="1" facs="tcp:156646:2"/>
+            <p>
+               <hi>Aprill the ſecond,</hi> 1642.</p>
+            <p>THe Army marched out, lodged at <hi>Recoole,</hi> and the next mor<g ref="char:EOLhyphen"/>ning at our departure fired the whole Towne, the 3. we mar<g ref="char:EOLhyphen"/>ched by <hi>Punchington</hi> towards the <hi>Naas,</hi> burning and pillaging all the Rebels houſes in the way, and hearing that at <hi>Tipper</hi> the Rebels had refortified themſelves, ſome of our Horſe going on too ſecurely, a Trumpetter was ſlaine by the fall of a ſtone from the top of the Caſtle throwne at him: whereupon at evening Sir <hi>Charles Coote</hi> tooke two foot Companies, and two troops to force it; and having by the Pioners broke the gate, they entered the lower roomes, the enemy tooke the higher, and a barrell of powder was ſet in the Vault, and they blowed up the Caſtle with them in it, onely a Dutchman and others, taking the ſtaire caſe were taken, and the Dutchman confeſſed, that a Prieſt was there ſlaine, who had 200. l. in his pocket, &amp; that there was 500. pound in plate, all which was buried in the ruines, ſome pillages, as Linnen and Cloath was got there; the Dutchman hanged the next day in the <hi>Naas:</hi> we loſt there ſeven men.</p>
+            <p>The 4. Wee marched, our troops burning and pillaging moſt of the Rebels Caſtles and Townes unto <hi>Kilcullen,</hi> an ancient Burrough, but now altogether ruinous; and there we killed 3. Rogues, all the reſt being fled.</p>
+            <p>The 5. We came to <hi>Athy,</hi> in the way were two Rebels hanged, and a little on the further ſide of <hi>Balliſoneere</hi> Caſtle, fortified by the Rebels; the Earle of <hi>Antrim,</hi> Earle of <hi>Caſtle-haven,</hi> and Dutcheſſe of <hi>Bucking<g ref="char:EOLhyphen"/>ham</hi> met the Army, who were entertained by Sir <hi>Charles</hi> with a volley of ſhot of Musketieres, and 3. Peeces; at our comming into <hi>Athy,</hi> we found moſt part of the Towne burnt by the Inhabitants the day before, becauſe a great Company of the Rebels thought, by the helpe of the ſtanding, to a forced the whole Caſtle, ſtanding on the Bridge, on the gate wee found newly ſet up a head of one of their Captaines that was ſlaine, which by the generall vote of all that knew him, was the head of one of the <hi>Fitzgarrets,</hi> a Fencer in <hi>Dublin.</hi>
+            </p>
+            <p>The 6. Wee reſted in <hi>Athy,</hi> in the meane time Sir <hi>Charles Coote</hi> relee<g ref="char:EOLhyphen"/>ved Captaine <hi>George Grymes</hi> at <hi>Ballilyon,</hi> who moſt valiantly did defend the Countrey according to his ability, and brought Sir <hi>Iohn Bowen</hi> with him to Towne: in the meane ſeaſon ſome of the troopers went to <hi>Carlow,</hi> of whoſe comming the Rebels hearing, fired the Towne and fled, yet not ſo faſt but our troops ſlew about 70. of them: this day at night were 4. Rebels hanged, and one <hi>Luke Maly,</hi> a great Receiver of the robbed Engliſh goods: Alſo <hi>George Walters</hi> governor of the Town of <hi>Athy</hi> came in of himſelfe, who had reconciled himſelfe to the Church of <hi>Rome,</hi> as by a certificate found from a Prieſt was made knowne; for which next day hee was hanged, and after him eight others, and one Pioner for firing his quarter without warrant.</p>
+            <pb n="2" facs="tcp:156646:3"/>
+            <p>The 7. Wee marched to <hi>Sradbelly,</hi> and lay that night, and hanged the next morning 14. Rogues, and burnt all the Townes of the Rebels.</p>
+            <p>The 8. We marched to <hi>Maribrough</hi> where the people told us, that the Rogues made an incurſion or two upon them, they ſlaying 22. of them, but none of ours hurt, and yet there hath dyed of miſeries and diſeaſes a<g ref="char:EOLhyphen"/>bove 300 ſince theſe troubles: Sir <hi>Charles</hi> hearing <hi>Ballanakill</hi> to bee ſtraightly beſiedged went that night thither, put to flight 600. of them, with a few troops of Horſe, killed 60 and odde, brought home 4. muſ<g ref="char:EOLhyphen"/>kets, 6. Peeces, ſome Pikes and Darts; one of our Conductors being ſhot through the Arme with two bullets, and one Trooper cleare through the thigh.</p>
+            <p>The 9. Wee reſted in <hi>Mariborough,</hi> and <hi>Richard Grace</hi> the Burgonor came in before, having delivered up the Towne, Caſtle and White-rod: and as is ſuppoſed went to the Rebels, there came in alſo <hi>George Fitzgar<g ref="char:EOLhyphen"/>ret,</hi> whoſe ſonne is in Rebellion, and Captaine <hi>Crosby,</hi> and others.</p>
+            <p>10. Sir <hi>Charles</hi> with 400. Horſe, and 20. Muskettiers went to relieve the Burrage, which was ſo hardly beſet, and almoſt famiſhed, having but foure horſes left, whereof one they had eaten: Giving them into the Caſtle 40. Cowes, beſide ſheepe and ſwine, powder and ſhot; in his progreſſe in the woods hee was ſet on by the Rebels, who after two or three ſhots fled, and in the chaſe there were killed two Com<g ref="char:EOLhyphen"/>manders, the head of one ſet on the gate of <hi>Burrage,</hi> of them, and neare 50. others, Captaine <hi>Armeſtrong</hi> being ſhot thorough the buffe coat, the bullet graſed on his belly, and Captaine <hi>Yarner</hi> with a bullet ſhot through his cap, and his head only raſed with the ſhot, that night they rod through the Byr, and relieved them, which are now provided in the Caſtle for 12. moneths, the enemy as yet not daring to approach them.</p>
+            <p>The 11. They returned with horſe, and men, much wearied to <hi>Mari<g ref="char:EOLhyphen"/>brough</hi> late at night, having loſt ſome of their horſes in the bogs, but the men came ſafe off not without divine providence: for the Rebels thought to encompaſſe them: but <hi>Leiut. Hughes,</hi> and ſome other going and firing divers Townes in the woods adjacent, drew off the Rogues, whereby they came off ſafe the ſame day; ſome of our ſouldiers going out to for<g ref="char:EOLhyphen"/>rage, by their neglect loſt one fire Lock, and two Pioners by the Rogues.</p>
+            <p>The 12 Wee reſted in <hi>Mariborough,</hi> and that night were handged 3. poore Rogues, one whereof a baſtard of <hi>Iohn a Youghall,</hi> that had han<g ref="char:EOLhyphen"/>ged five Engliſh people in the ſame towne, all dying without any ſhew of penitence.</p>
+            <p>Wee marched from <hi>Mariborough</hi> to <hi>Athy:</hi> Captaine <hi>Hughes</hi> firing all the countrey with 300. men on the edge of <hi>Clanmelyra,</hi> killing few of the Rogues, they being fled into the woods: in the mid way at <hi>Stradbally,</hi> they found a ſmiths man, his Maſter being a little before fled, making Pike heads, and skeanes for the Rebels, whom they inſtantly hanged on a gate,
+<pb n="3" facs="tcp:156646:3"/>in our abſence the Rebels made an approach towards <hi>Athy,</hi> to the number of 58. others ſay 32 colours, but the juſt number is uncertaine, though our Scouts went out to deſcry, they lying on the weſt-ſide of the Burrow a River running downe from <hi>Athy</hi> to <hi>Water-ford.</hi>
+            </p>
+            <p>The 14 Captaine <hi>Armeſtrongs</hi> troop being quartered at Captaine <hi>Bur<g ref="char:EOLhyphen"/>rowes,</hi> ſome of them iſſued out, and found ſome of the Rebels Scouts, who they put to flight, killing and drowning 18. of them, they having paſſed on this ſide the River, and took from them 6. fowling Peeces, &amp; one Musket: In the after-noone the Lord Lievtenant of the Army with ſome troopers going to take a view of the Army, a horſe of Mr. <hi>Iames Cootes,</hi> was ſhot in the fore-head, and the enemies ſcouts rode betweene the bridge and them; but nothing done, and about three of the clock in the afternoone, were hanged eight Rebels, one of them was <hi>Brock,</hi> an ancient Engliſh Papiſt, and a moſt ſubtle Seducer of the Engliſh, a man of acute wit, and well ſpoken; as alſo an Intelligencer of the Rebels, abold and malapert knave, not daring to tell the Engliſh in <hi>Athy,</hi> that before Chriſtmas next, that he hopt to heare Maſſe ſaid in the Church there: nay, that he would reade it there himſelfe (which is a marvell in a Romiſh Ca<g ref="char:EOLhyphen"/>tholike, their Church not allowing a married Clergy; yet this Rebell ha<g ref="char:EOLhyphen"/>ving a wife at the <hi>Galhouſe.</hi>) This night it was the generall report that the enemy would give us battell next morning, whereupon order was gi<g ref="char:EOLhyphen"/>ven by the Lord <hi>Lievetenant</hi> Generall, that wee ſhould be ready to march by breake of day the next morning, the newes giving cauſe of Ioy to all our Army, they being all deſirous to fight, I conceive, as to eate or drinke.</p>
+            <p>15. About 6. a clock in the morning, our army beganne to move in a faire and eaſie martch, at which time were 3. hanged one Rebell by name <hi>Donne,</hi> and the other two, ſouldiers of ours, who would have runne to the Rebels in our abſence; Two of the <hi>Kealings</hi> of Sir <hi>George Wentworths</hi> troope, ranne to the Rebels before wee had fully marched 2. mile, to a place called the <hi>Morter Aſcull</hi> where it was ſuppoſed, the enemy would ly in ambuſh; by our ſcoutes, the Rebels were diſcryed, that they had paſſed the old Bridge, and were marching on this ſide <hi>Kilkey,</hi> a Houſe of the Counteſſe <hi>Dowagers</hi> of <hi>Kildare,</hi> a great Fortreſſe of the Rebellion, as we thought to meet them on the Hill adjacent unto <hi>Kilſonan</hi> Caſtle, which cauſed the Army to march faſter, whereby wee might obtaine it before them; ſo to have the Hill wind and Sunne: the enemy conceiving as was after confeſſed by one taken priſoner that wee did ſlie from there puiſant power, when in my hearing a Captaine unknowne to mee, demanded of the Lord Lieutenant Generall, why hee did not martch an other way, (as I conceive to the carrow of <hi>Kildare,</hi>) his Honour anſwered laughing, hee would not boodge afoote out of the way hee came, for all the Rogues, not long after wee did ſee them apparently martch in three full bodies, &amp; that ſo faſt, which cauſed us all to mend our pace for attaining the afore<g ref="char:EOLhyphen"/>mentioned
+<pb n="4" facs="tcp:156646:4"/>Hill, on which were already ſome of our troopes, but wee drawing within halfe a mile of the foote of it, the Rebels marched very fairely, having about 40. Colours, and pitched on the brow of a Hill, ad<g ref="char:EOLhyphen"/>jacent to Caſtle Towne (a Towne of the Lord Vicount of <hi>Elis,</hi>) having Hill, wind, and Sunne of us, yet had wee a very faire champion to order our battle in (the Rebell having ſet themſelves ready to entertaine us in 3. bodies;) The Earle of <hi>Ormond</hi> taking infinite paines with much alacrity to give the enemies battle: neither can I without injury forget the extra<g ref="char:EOLhyphen"/>ordinary care and induſtry of that checkmate of Rebels, Sir <hi>Charles Coote;</hi> now our army being devided into 3. bodies, the outmoſt wings flanked with our horſe, and our 5. pieces of Ordnance marching betweene the bodies, and two looſe wings, whereof, that of the left hand was led by Captaine <hi>Prime Rochford,</hi> each man committing himſelfe to God, and care of his duty; Drums and Trumpets, declaring our willingneſſe to meet with the Rogues, every man marcht forwards with as much joy, as if hee went to a wedding; our men approaching neare our enemy, the Lord Ge<g ref="char:EOLhyphen"/>nerall gave order, that if the Gunners thought, they were within reach of execution, they ſhould let fly at the enemies middle body ſtanding on a Hill, the firſt ſhot out of a <hi>Saker Drake</hi> being 400. paces at the leaſt be<g ref="char:EOLhyphen"/>ing given fire unto by Captaine <hi>Stutvile</hi> Maſter Gunner of <hi>Ireland,</hi> devi<g ref="char:EOLhyphen"/>ded an enſignes body into two parts which was ſtrange, in regard, the Rebels were ſeated on the brow of the Hill in a naturall Fort, that we had no other marke, but halfe head the Colour and pike, and with two <hi>Drakes</hi> wee made eight ſhots, which did little hurt in regard of the ſituation, our two <hi>Sakers</hi> and <hi>Demi-Culverin</hi> playing on the enemies right hand body, one of the <hi>Sakers</hi> whereof <hi>Will: Hampton</hi> had the command, making a lane by ſhattering the upper parts of the pikes the bodies of the men, being ſecured as is related before; hee ſhot ſeven ſhots, and at the ſeventh ſhot, beat downe three of the Rebels Colours; immediately, after which, a ſhot made out of the <hi>Demi-Culverin,</hi> put the Roges to aſtand like a heard of deare that gaze at the opening of a hound, in the meane time, our private ſouldiers being led on by the Lord Lieutenant Generall, all came within musket ſhot of the Rebels, which cauſed the two laſt Peeces to forbeare, leaſt they ſhould hurt our owne men in there going on, going on ſaid I, nay rather dancing, ſuch was there reſolution, and diſcharging ſo continually quick, that there was not ſpace of the motion of the heart, or the twinckling of an eye for an houre and a halfe together; ſuch mu<g ref="char:EOLhyphen"/>ſick did they make, that I am perſwaded to a ſouldiers eare, chamber fid<g ref="char:EOLhyphen"/>ling will bee hardly accepted, but with little hurt to the Rebels, in reſpect of the banke before them, yet were they ſo aſtoniſhed that to runne or ſtay they knew not: and now behold an act of the Divine providence, for at this very time, the wind that was South Eaſt, and ſo againſt us, turned
+<pb n="5" facs="tcp:156646:4"/>Northwards, being a great help to us, but the enemy ſeeing our men come on ſo couragiouſly, turned tayle like hagard faulkon, and likewiſe runne a<g ref="char:EOLhyphen"/>way; our horſe men and foot purſuing, with might and mayne, untill they came to a long Bog wherein the Rogues tooke, but were bravely fetcht off with our firelocks, and troopes; part of our Troopes that flanked on the right, thinking the Rebels would have tooke to <hi>Caſtle</hi> Towne, rod that way, but they not appearing, fired the Towne and returned to the Chaſe, in which was ſome 500. men amongſt them ſlaine; one <hi>Butler,</hi> Sonne to the Viſcount of <hi>Iberring,</hi> and Sonne in Law to the <hi>Wolfe Mountgaret:</hi> as alſo <hi>Birne</hi> a Lieutenant Collonell, and Collonell <hi>Cavanaugh;</hi> there was taken a Cart of the Rebels with three barrels of powder, <hi>aqua vitae,</hi> and other good proviſion drawne by eight Oxen, which made mee wonder, that they diſcharged no more ſhot at us, but it was their policy not gi<g ref="char:EOLhyphen"/>ving us, I thinke, a 100. ſhot, for by an <hi>Engliſhman</hi> that was taken who was a Sumpter bearer to the Lord Viſcount <hi>Iberring,</hi> it is reported, that hee confeſt, there was a watch word, that though with loſſe, they ſhould ruſh upon our army, rout us, and ſo become Maſters both of the field and all our ammunition; there <hi>Achitophell Mountgarret</hi> having ſet in order the day before, how all the pillage ſhould bee devided, but having failed in his purpoſe: I hope he will conclude as his former Projectour in a halter, ſuch ends God ſend the enemies of our Church, King, and State, and let all true harted Proteſtants, that ſhall read this, ſay Amen.</p>
+            <p>There were in this battle of the Rebels, the Viſcount <hi>Mountgarret,</hi> and <hi>Iberring,</hi> the Barron of <hi>Dunboin,</hi> the flower of the Gentry of <hi>Kildare Wicklow, Catherlow, Kilkenney, Queenes</hi> County, <hi>Weſtmeath,</hi> and other parts adjacent, who did really beleeve to have deſtroyed us; but God our God roſe up and delivered us from the hands of thoſe bloudy minded men, who thought to have devoured us having now nothing to glory of, but there ſhamefull flight with the loſſe of 4. of there Colours, and the parts, which were painted on them, being not able to deliver them out of our hands; but as Trophies of Gods mercy and our deliverance, wee brought to <hi>Dublin</hi> as alſo the three heads of the three forenamed Tray<g ref="char:EOLhyphen"/>tours, which ſtands as ſpectacles of Gods juſtice, on perfidious Traytours and Deviliſhly minded Monſters, begotten by the <hi>Locuſts</hi> by the Whore of <hi>Babylon;</hi> after the chaſe, wee found onely two Troopers ſlaine, and one hurt, with one Ancient, and ſome ſeven private ſouldiers of our army; glory bee to God.</p>
+            <p>When having drawne our forces into good Array, in came that valiant Commander Sir <hi>Charles Coote,</hi> who was ſo eager in the Chaſe, that hee loſt his Mountero and rode bare head amongſt the thickeſt of them, ſo marching forwards towards <hi>Kildare,</hi> wee thought to have lodged in it that night, it being night when wee came within two miles of it.</p>
+            <pb n="6" facs="tcp:156646:5"/>
+            <p>But the Rebels had the Caſtle, ſo that it was dangerous to adventure thither, whereupon the Lord Lieutenant Generall, and Sir <hi>Charles</hi> a<g ref="char:EOLhyphen"/>greed, that wee ſhould march that night to <hi>Newconnel</hi> a Towne of Sir <hi>Nicholas Whites</hi> ſtanding on this ſide the River of <hi>Loffie,</hi> to which wee marched over the Carrow of <hi>Kildare,</hi> and paſſed through the River with our peeces, am nunitions, and carriages betweene twelve and one a clock that night; our van lying at <hi>Connel,</hi> and our carriages lying on this ſide the River, and the reere of the farther ſide of the ſame, and came in the next morning about right of the clock.</p>
+            <p>16. About eleven a clock, wee marched towards the <hi>Naas,</hi> the way wee went being about ſome foure miles and a halfe, and in the way a<g ref="char:EOLhyphen"/>mongſt many houſes that wee burnt, wee burned the Houſe of <hi>Fitz-gar<g ref="char:EOLhyphen"/>ret</hi> Steward to Sir <hi>Nicholas White</hi> and Captaine of the Rebels, who the day, the battle was fought came to <hi>Connel</hi> aforeſaid with one <hi>Sutton</hi> of the <hi>Naas;</hi> and being demanded what newes from the armies, hee replied, that the <hi>Iriſh</hi> were ſhamefully routed and runne away; further adding theſe words, that hee thought God fought for the <hi>Engliſh,</hi> and the Devill for them. Thus doth the Governour of all things, made falſe Traytours ſpeake the truth to his glory, and our comforts: at the <hi>Naas</hi> wee reſted that night, but found little proviſion but what wee brought with us, and over night warning given us, that wee ſhould bee ready to march by the breake of the day.</p>
+            <p>17. And being ready in the morning, and our Wagons droven out to march; even as our peeces were going, a command came, that the Demi<g ref="char:EOLhyphen"/>culverin and the two Sakers ſhould ſtay at the <hi>Naas,</hi> and alſo 600. men and two Troopes, the Lord <hi>Liles,</hi> and Sir <hi>Charles Cootes</hi> Drogoones, who alſo ſtayed with them, wee marching and burning all the Rebels houſes in the way home, and when wee came neare, wee heard, and that with joy of the arrivall of 700. horſe more for the further ſervice of Gods glory, the Kings honour, our Churches peace, and the hopefull en<g ref="char:EOLhyphen"/>joyment of our ancient liberty, and thus much concerning our firſt march out of <hi>Dublin,</hi> being above 40. miles in the Countrey of the Rebels under the conduct of the right honourable and truly hopefull Commander <hi>Iames</hi> Earle of <hi>Ormond</hi> and <hi>Oſſory</hi> &amp;c. and divers other brave valiant Captaines, whom to nominate would bee too tedious though their acts are fit to be eternized by a more able penne, then a point blanke Gunner.</p>
+            <closer>Deo Gloria Solo.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
